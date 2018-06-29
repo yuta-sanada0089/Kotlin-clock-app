@@ -1,0 +1,16 @@
+*ripts": {
+    "dev": "webpack --config webpack.config.js --progress --hide-modules",
+    "watch": "webpack --config webpack.config.js --watch --progress --hide-modules ",
+    "hot": "webpack --config webpack.config.js --inline --hot",
+    "build": "webpack --config webpack.config.js" 
+  },
+.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
